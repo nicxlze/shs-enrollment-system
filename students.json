@@ -1,0 +1,26 @@
+{
+    "address": [
+      {
+        "street": "Magdiwang Street",
+        "brgy": "Molino 3"
+        
+      },
+      {
+       
+        "street": "2nd Street ",
+        "brgy": "Mambog 2"
+       
+      }
+    ],
+    "subjects": [
+      {
+        "subj_name": "Introduction to Mathematics",
+        "grade": 3
+      },
+      {
+       
+        "subj_name": "Introduction to Mathematics",
+        "grade": 3
+      }
+    ]
+  }
